@@ -26,12 +26,18 @@ C++ compiler (GCC / MinGW)
 C++11 or higher
 
 🚀 Build & Run
+
 🛠 Compile
 g++ src/main.cpp src/RadixTree.cpp -o dictionary
+
 ▶️ Run (Windows)
+
 dictionary.exe
+
 ▶️ Run (Linux / macOS)
+
 ./dictionary
+
 📂 Yêu cầu
 - Có g++ (C++11 trở lên)
 - File data nằm đúng đường dẫn: data/dictionary.txt
