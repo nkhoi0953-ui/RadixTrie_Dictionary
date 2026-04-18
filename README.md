@@ -18,20 +18,23 @@
 - 🌳 **Visualization**  
   Hiển thị cấu trúc cây trực tiếp trên console để debug và theo dõi dữ liệu.
 
-🚀 Getting Started
+## 🚀 Getting Started
+
 🔧 Requirements
+
 C++ compiler (GCC / MinGW)
 C++11 or higher
 
-## 🚀 Build & Run
-
-### Compile
-```bash
+🚀 Build & Run
+🛠 Compile
 g++ src/main.cpp src/RadixTree.cpp -o dictionary
-Run (Windows)
+▶️ Run (Windows)
 dictionary.exe
-Run (Linux/macOS)
+▶️ Run (Linux / macOS)
 ./dictionary
+📂 Yêu cầu
+- Có g++ (C++11 trở lên)
+- File data nằm đúng đường dẫn: data/dictionary.txt
 
 # 🛠 Core Algorithms
 1. Node Splitting
